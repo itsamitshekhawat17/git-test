@@ -7,3 +7,5 @@ ADD YOUR NAME IN THIS FILE
 # TEAM MEMBERS
 
 1. Aaditya Vinayak
+2. Gaurika Pareek
+
